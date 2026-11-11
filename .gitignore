@@ -1,0 +1,8 @@
+# editor / OS junk
+*.swp
+*.swo
+*~
+.DS_Store
+
+# local backups
+*.bak
