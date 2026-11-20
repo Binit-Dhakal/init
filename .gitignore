@@ -6,3 +6,6 @@
 
 # local backups
 *.bak
+
+# Monaco is downloaded per machine by tools/monaco-diff/install.sh (~14 MB)
+tools/monaco-diff/vendor/
